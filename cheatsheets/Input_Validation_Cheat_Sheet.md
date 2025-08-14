@@ -147,7 +147,7 @@ Check the [File Upload Cheat Sheet](File_Upload_Cheat_Sheet.md).
 
 - Use input validation to ensure the uploaded filename uses an expected extension type.
 - Ensure the uploaded file is not larger than a defined maximum file size.
-- If the website supports ZIP file upload, do a validation check before unzipping the file. The check includes the target path, level of compression, estimated unzip size.
+- If the website supports ZIP file upload, do a validation check before unzipping the file. The check includes the target path, level of compression, and estimated unzip size.
 
 ### Upload Storage
 
